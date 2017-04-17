@@ -1,0 +1,31 @@
+:root {
+  background-color: #303641;
+  color:#8E9BA8;
+  font-family: 'Open Sans', sans-serif;
+}
+
+a {
+  color:#8E9BA8;
+  text-decoration: none;
+  font-size: 12px;
+}
+
+h1{
+  font-size: 34px;
+  font-family: 'Yu Gothic';
+}
+
+input {
+  color:#8E9BA8;
+  background-color:#303641;
+  border: 2px solid #8E9BA8;
+  text-align: center;
+}
+
+td {
+  padding: 0 10;
+}
+
+.wrapper {
+  padding-top: 15%;
+}
